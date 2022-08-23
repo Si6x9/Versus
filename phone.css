@@ -1,0 +1,35 @@
+.head{
+    display: flex;
+    flex-direction: column;
+}
+.cd{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(1, auto);
+
+}
+.carddiv{
+    /* max-width: fit-content; */
+
+}
+
+.carddiv {
+    /* width: fit-content;
+    min-width: 500px; */
+    margin: auto;
+
+}
+/* .carddiv, .cardimg{
+    width: 800px;
+    height: 500px;
+} */
+.cardimg {
+    /* width: 5px; */
+}
+.section{
+
+}
